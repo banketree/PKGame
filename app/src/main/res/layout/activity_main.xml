@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.banketree.pk10game.components.TitleBar
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:rightText="关于"
+        app:leftText="返回"
+        app:titleText="@string/app_name"
+        app:rightTextColor="@color/red"
+        app:showLine="true"
+        app:titleTextColor="@color/red" />
+
+    <com.banketree.pk10game.components.CustomWebView
+        android:id="@+id/customWebView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

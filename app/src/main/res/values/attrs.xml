@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="titlebar_layout">
+        <attr name="titleText" format="string|reference" />
+        <attr name="titleTextColor" format="color" />
+        <attr name="leftText" format="string|reference" />
+        <attr name="leftTextColor" format="color" />
+        <attr name="leftImg" format="reference" />
+        <attr name="rightText" format="string|reference" />
+        <attr name="rightTextColor" format="color" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="rightImg" format="reference" />
+        <attr name="leftImgColor" format="reference|color" />
+        <attr name="rightImgColor" format="reference|color" />
+        <attr name="showLine" format="boolean" />
+        <attr name="showLineBg" format="color" />
+    </declare-styleable>
+</resources>

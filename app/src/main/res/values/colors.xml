@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--custom multipleimageselect -->
+    <color name="multiple_image_select_primary">#393A3F</color>
+    <color name="multiple_image_select_primaryDark">#303135</color>
+    <color name="multiple_image_select_primaryLight">#D1C4E9</color>
+    <color name="multiple_image_select_accent">#536DFE</color>
+
+
+    <color name="multiple_image_select_primaryText">#212121</color>
+    <color name="multiple_image_select_secondaryText">#727272</color>
+    <color name="multiple_image_select_divider">#B6B6B6</color>
+
+    <color name="multiple_image_select_toolbarPrimaryText">#FFFFFF</color>
+
+    <color name="multiple_image_select_albumTextBackground">#99FFFFFF</color>
+    <color name="multiple_image_select_imageSelectBackground">#000000</color>
+
+
+    <color name="colorPrimary">#fafafa</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#432E66</color>
+    <color name="colorBG">#fafafa</color>
+    <color name="linecolorBg">#999999</color>
+    <color name="color_divide_line">#d5d5d5</color>
+    <color name="color_bg">#f5f5f5</color>
+    <color name="color_line">#f5f5f5</color>
+    <color name="color_grea">#f3f3f3</color>
+    <color name="bg_color">#f3f3f3</color>
+    <color name="color_one_level">#333333</color>
+    <color name="color_two_level">#666</color>
+    <color name="statistics_all">#279EDB</color>
+    <color name="statistics_per">#8FC24A</color>
+    <color name="line">#f3e4e4e4</color>
+    <color name="red">#F00</color>
+    <color name="white">#ffffff</color>
+    <color name="orange_btn">#fe8400</color><!-- 姗橀粍 -->
+    <color name="violet_btn">#541B86</color>
+    <color name="discover_line">#ececec</color><!-- gray -->
+    <color name="bg_lan">#F18A1E</color><!-- gray -->
+    <color name="toolbar_front">#5B2D90</color>
+
+    <color name="main_front_color_gray">#999999</color>
+    <color name="main_front_color_default">#676767</color>
+    <color name="main_front_color_orange">#ec7f0d</color>
+    <color name="select_check_color">#f36a08</color>
+    <color name="btn_default">#f36a08</color>
+    <color name="FF368AAE">#FF368AAE</color>
+
+    <color name="white_alpha_60">#3cffffff</color>
+    <color name="black_alpha_60">#3c000000</color>
+    <color name="D9D9D9">#d9d9d9</color>
+    <color name="FBFBFB">#FBFBFB</color>
+
+    <color name="pull_to_refresh_header_text_color">#999999</color>
+    <color name="pull_to_load_footer_text_color">#999999</color>
+    <color name="blue">#037BFF</color>
+
+    <!-- 涓氱哗鎺掑悕 -->
+    <color name="one">#599BD3</color>
+    <color name="two">#646464</color>
+    <color name="three">#F99A37</color>
+    <color name="one_00">#00599BD3</color>
+    <color name="two_00">#00646464</color>
+    <color name="three_00">#00F99A37</color>
+    <color name="one_88">#55599BD3</color>
+    <color name="two_88">#55646464</color>
+    <color name="three_88">#55F99A37</color>
+
+
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="black">#000000</color>
+    <color name="text_content">#ffa19d94</color>
+
+</resources>
